@@ -1,0 +1,104 @@
+.site-container,
+.site-inner {
+    background: #000000;
+	}
+
+body { 
+    background-color: #000000;
+}
+
+.nav-mobile, .widget-area {
+    background: #000000; 
+}
+
+.search-form input[type="search"] {
+  background: #000000;
+  color: #ffffff; 
+}
+  
+.featured-carousel .owl-item,
+.featured-carousel .carousel-image {
+    height: 700px;
+}
+
+.nav-mobile,
+.menu-mobile {
+    background: #000;
+}
+	
+.genesis-nav-menu a {
+	font-family: tenorsans;
+	font-size: 18px
+}
+   
+.featured-carousel .carousel-image {
+    max-width: 40%;
+    max-height: 100%;
+    margin-bottom: -55px;
+}
+
+.featured-carousel .entry-content-outer {
+     width: 60%;
+}
+
+
+body, .entry-content p {
+    font-family: open-sans; 
+	font-size: 24px
+}
+
+.post h1 {font-size: 62px
+}
+
+.post h2 {
+	font-family: tenorsans; 
+	text-transform: uppercase; 
+	font-size: 39px;
+}
+
+.post h3 {
+	font-family: tenorsans; 
+	text-transform: uppercase; 
+	font-size: 30px;
+}
+
+body.page .entry-title {font-size: 72px;
+}
+
+.archive-title { 
+	 font-size: 69px; font-family: bon-script; 
+}
+
+.filter-menu .sort-by, .cat-item a {
+    font-size: 16px; 
+    font-family: trebuchet;
+}
+
+.wppd-disclaimer-container > p {
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.enews.enews-2-fields p:nth-of-type(2) {
+    font-size: 15px;
+}
+
+.menu.genesis-nav-menu.menu-primary.menu-mobile.responsive-menu {
+    background-color: #000 
+}
+
+nav.nav-primary.nav-mobile {
+    background-color: #000 !important;
+}
+
+ .menu-primary.menu-mobile a, .nav-mobile li.menu-item a:hover {
+    background-color: #000 !important;
+    color: #fff !important; 
+}
+
+.menu-primary.menu-mobile .sub-menu, li a:hover {
+    color: #8d9eaa !important;
+}
