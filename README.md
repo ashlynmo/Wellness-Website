@@ -4,9 +4,6 @@ Fully customized WordPress site for a spiritual wellness brand. Designed all gra
 **Key highlights:** polished typography, responsive carousel design, cohesive dark-theme styling, and attention to user experience. 
 
 **Live demo:** <a href="http://sageandmoon.netlify.app/sageandmoon.co/" target="_blank">View Site Here</a>
-## Custom Code:
-
-style.css — Hand-coded CSS controlling layout, typography, and visual styling of a WordPress theme.
 
 ## Tools Used:
 
