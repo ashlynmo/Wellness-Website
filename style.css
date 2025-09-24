@@ -15,7 +15,6 @@ body {
     background: #000000; 
 }
 
-/* Navigation Menu Fonts & Colors */
 .genesis-nav-menu a {
     font-family: tenorsans;
     font-size: 18px;
@@ -110,3 +109,4 @@ a {
     background: #000000;
     color: #ffffff; 
 }
+
