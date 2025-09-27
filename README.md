@@ -1,5 +1,5 @@
 # Wellness-Website - Front-End / UX Project
-Fully customized WordPress site for a spiritual wellness brand. Designed all graphics, layouts, and interactive elements using Canva, Elementor, and custom CSS/HTML. 
+Fully customized WordPress site for a spiritual wellness brand. Designed all graphics and pages using Canva, Elementor, and custom CSS/HTML. 
 
 **Key highlights:** polished typography, responsive carousel design, cohesive dark-theme styling, and attention to user experience. 
 
